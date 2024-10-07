@@ -1,0 +1,4 @@
+spring.security.user.name=pablo
+spring.security.user.password=1234
+#lo ideal es que estos datos esten encriptados o se recuperen de una base de datos.
+#al establecer estos datos spring security no estaria generandonos la contraseña por defecto.
